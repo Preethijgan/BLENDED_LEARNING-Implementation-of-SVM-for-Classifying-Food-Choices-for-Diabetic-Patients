@@ -1,4 +1,4 @@
-# BLENDED LEARNING
+
 # Implementation of Support Vector Machine for Classifying Food Choices for Diabetic Patients
 
 ## AIM:
